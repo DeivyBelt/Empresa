@@ -1,2 +1,2 @@
 # Empresa
-<img width="866" height="795" alt="Clases Lab 7 1" src="https://github.com/user-attachments/assets/c958b327-25ca-44c2-8138-4e619351fbba" />
+<img width="786" height="751" alt="image" src="https://github.com/user-attachments/assets/9dc60c9c-cee1-44b9-8e21-4140051c9597" />
